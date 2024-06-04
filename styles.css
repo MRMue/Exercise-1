@@ -1,0 +1,33 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    background-color: bisque;
+    text-align: center;
+}
+
+div {
+    margin: 5%;
+}
+
+h4 {
+    color: blueviolet;
+}
+
+img {
+    height: auto;
+    width: 100%;
+    position: relative;
+    border-radius: 50%;
+}
+
+#Smiley {
+    position: absolute;
+    padding-left: 2%;
+}
+/*#Austattung {}*/
+
+#Bildergalerie {
+    text-align: center;
+}
